@@ -2,6 +2,7 @@
 layout: information
 ---
 # Paris: Audio Guide
+## Privacy Policy
 <a href="https://apps.apple.com/us/app/paris-audio-guide/id1671426431" style="display: inline-block;">
     <img src="../../assets/images/app-store2.png" alt="app-store2" width="135" height="40">  
 </a>

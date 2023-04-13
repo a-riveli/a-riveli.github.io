@@ -1,7 +1,8 @@
 ---
 layout: information
 ---
-# Multi Language Translate 
+# Multi Language Translate
+## Privacy Policy
 <a href="https://apps.apple.com/us/app/multi-language-translate/id6444265937" style="display: inline-block;">
     <img src="../../assets/images/app-store2.png" alt="app-store2" width="135" height="40">  
 </a>
