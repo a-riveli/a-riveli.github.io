@@ -24,7 +24,7 @@ An AI-powered self-guided tour to help users explore the city of Paris at their 
 
 
 <a href="https://apps.apple.com/us/app/multi-language-translate/id6444265937" style="display: inline-block;"><img src="assets/images/translator_icon.webp" alt="translator_icon" width="30" height="30" class="rounded"></a>
-[Multi Language Translate](https://apps.apple.com/us/app/multi-language-translate/id6444265937)
+[Deep Translate: Multi Language Translator](https://apps.apple.com/us/app/multi-language-translate/id6444265937)
 
 A mobile translator application that stands out from the rest, it offers seamless translation from one language to multiple languages simultaneously with a high degree of accuracy, thanks to its advanced neural network architecture. In addition, this app enables users to translate documents without any loss of formatting, making the process of translating entire documents fast and easy.
 

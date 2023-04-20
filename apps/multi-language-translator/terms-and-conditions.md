@@ -1,16 +1,16 @@
 ---
 layout: information
 ---
-# Paris: Audio Guide
-## Terms and Conditions
-<a href="https://apps.apple.com/us/app/paris-audio-guide/id1671426431" style="display: inline-block;">
-<img src="../../assets/images/app-store2.png" alt="app-store2" width="135" height="40">  
+# Multi Language Translate - Terms and Conditions
+
+<a href="https://apps.apple.com/us/app/multi-language-translate/id6444265937" style="display: inline-block;">
+    <img src="../../assets/images/app-store2.png" alt="app-store2" width="135" height="40">  
 </a>
 
 ### 1. INTRODUCTION
-Thank you for choosing Paris: Audio Guide by Ihsan Yalcinkaya.
+Thank you for choosing Multi Language Translate  by Ihsan Yalcinkaya.
 
-I provide you (“you, your, yours, the user”) an application for enjoying your touristic visit. Our services include a wide variety of audio guides and walking routes which are available on (i) applications available to download on mobile or tablet devices (“Apps”), or any other device, whether invented or to be invented, by which you can access our content and courses, collectively being our services to you (“Services”).
+I provide you (“you, your, yours, the user”) an application for translating multiple languages at the same time. Our services are available on (i) applications available to download on mobile or tablet devices (“Apps”), or any other device, whether invented or to be invented, by which you can access our content and courses, collectively being our services to you (“Services”).
 
 In order to access our Services, whether or not you are an existing or former user, you confirm that you have read these Terms of Use (“Terms”). Whenever you use our Services, you acknowledge that you understand and agree to these Terms, and you also agree to our Privacy. We may make changes to our Terms from time to time. We will publish all changes on this page with the date these amendments are made located at the bottom of the page so that you know when we last updated the Terms. This also applies to our Privacy Policies. Your continued use of our Services after any amendments constitutes your acceptance of any such amendments. If you do not agree to comply with these Terms, please do not register to use, access or continue to use our Services. We may terminate your access to the Services if you breach our Terms.
 
@@ -24,7 +24,7 @@ You must register for an account by: (i) providing a username, a valid email add
 Once you have an Account, you can create an online profile (“Profile”). When creating your Profile, you agree to (i) provide accurate, current and complete information; and (ii) be personally responsible for the information you provide in your Profile. We reserve the right to delete your Profile and suspend or terminate your account if we, acting reasonably, suspect that any information you provide in your Profile is untrue, inaccurate or does not comply with our Terms.
 
 ### 3. PRIVACY POLICY
-We take your privacy very seriously. Any personal information you submit to us when setting up an Account shall be subject to our Privacy Policies located at https://www.riveli.io/apps/paris-audio-guide/privacy-policy which are incorporated into these Terms. You understand that through your use of the Services, you consent to the collection and use (to the extent stated in the Privacy and Cookie Policies) of this information. You further understand, acknowledge and agree that any personal information you provide on your Profile is in the public domain and is provided at your sole liability. We accept no responsibility whatsoever for the use of any personal information you share on your Profile by you or any other individual.
+We take your privacy very seriously. Any personal information you submit to us when setting up an Account shall be subject to our Privacy Policies located at https://riveli.io/apps/multi-language-translator/privacy-policy.html which are incorporated into these Terms. You understand that through your use of the Services, you consent to the collection and use (to the extent stated in the Privacy and Cookie Policies) of this information. You further understand, acknowledge and agree that any personal information you provide on your Profile is in the public domain and is provided at your sole liability. We accept no responsibility whatsoever for the use of any personal information you share on your Profile by you or any other individual.
 
 ### 4. COPPA COMPLIANCE
 To the extent that the Children’s Online Privacy Protection Act 1998 is deemed to apply to us, this website is not aimed at children and does not seek to collect personal information from children under 13. You may request access and/or rectification of your data or data relating to your children at all times via our support address (info@riveli.io).
@@ -43,23 +43,21 @@ You must not attempt to gain unauthorized access to our Services, the server(s) 
 
 You acknowledge and agree that we may preserve User Content and may also disclose User Content if required to do so by law, or in the good faith belief that such preservation or disclosure is reasonably necessary to: (a) comply with legal process; (b) enforce the Terms; (c) respond to claims that any User Content violates the rights of third parties; or (d) protect the rights, property, or personal safety of us, our users and the general public.
 
-### 9. Premium SUBSCRIPTION FEES
-The basic version of the Services can be used completely free of charge. This includes a limited time of listening audio guides. If you decide to advance your experience, we have a range of subscription options to best meet your needs. You can opt to subscribe for our monthly and yearly subscription (together with the “Premium”) to access advanced content. Our Fees for Premium are available to view in our Apps. Our Fees are subject to different subscription plans, gift plans, and promotions, and we, therefore, reserve the right to update our Fees from time to time.
+### 9. Membership (Premiuim) SUBSCRIPTION FEES
+The basic version of the Services can be used completely free of charge. This includes a limited amount of translation with advertisements. If you decide to advance your experience, we have a range of subscription options to best meet your needs. You can opt to subscribe for our monthly, half-yearly and yearly subscription (together with the “Premium”) to access advanced content. Our Fees for Premium are available to view in our Apps. Our Fees are subject to different subscription plans, gift plans, and promotions, and we, therefore, reserve the right to update our Fees from time to time.
 
-If you select Monthly Premium your subscription will automatically renew as a rolling subscription and renew at the end of each monthly period, being one month (or as near to the date as possible) from the date on which your Monthly Premium was activated. If you select Yearly Premium, your subscription will automatically renew as a rolling subscription at the end of each annual period, on the date on which your Yearly Premium was activated (each being a “Renewal”). If you proceed with a Renewal, the method of payment used to pay the fees will be debited at the end of your current Premium subscription. In case of Ihsan Yalcinkaya ceases to commercially offer the Services for Paris: Audio Guide both subscriptions are ended.
+If you select Monthly Premium your subscription will automatically renew as a rolling subscription and renew at the end of each monthly period, being one month (or as near to the date as possible) from the date on which your Monthly Premium was activated. If you select 6 Monthly (half-yearly) Premium your subscription will automatically renew as a rolling subscription and renew at the end of each 6 months period. If you select Yearly Premium, your subscription will automatically renew as a rolling subscription at the end of each annual period, on the date on which your Yearly Premium was activated (each being a “Renewal”). If you proceed with a Renewal, the method of payment used to pay the fees will be debited at the end of your current Premium subscription. All subscriptions are ended, in case of Ihsan Yalcinkaya ceases to commercially offer the Services for Maulti Language Translate .
 
 You acknowledge that, if we change the Fees, this will not affect your existing Premium subscription, therefore, if you have signed up for a subscription at a certain Fee, any Fee changes will not affect any current subscription or any Renewals).
 
-Please note that if you have purchased the subscription through Apple iTunes or Paris: Audio Guide iPhone/iPad application, the following conditions apply for renewals of Monthly and Yearly Premium subscription:
+Please note that if you have purchased the subscription through Apple iTunes or Multi Language Translate iPhone/iPad application, the following conditions apply for renewals of Monthly and Yearly Premium subscription:
 
 Subscription automatically renews unless auto-renew is turned off at least 24-hours before the end of the current period
 Your account will be charged for renewal within 24-hours prior to the end of the current period.
 Subscriptions may be managed by the user and auto-renewal may be turned off by going to the user's Account Settings after purchase.
 The effect of the changes are as follows:
 
-From Monthly Premium to Yearly Premium – your Yearly Premium will be activated immediately after payment is processed and any time left on your Monthly Premium will be canceled and will not be refunded;
-From Yearly Premium to Monthly Premium – your Yearly Premium will continue to be active until the expiry of the remainder of your current Yearly Premium subscription and your Monthly Premium will be activated once your Yearly Premium subscription has expired; and
-Your Premium subscription may start with a free trial. The free trial period for any subscription will last for the period of time specified when you signed up. Free trials may not be combined with certain other offers, as specified. If you begin your subscription with a free trial, the first billing day will be the day after the free trial expires. E.g for a 7-day free trial the billing day will be the 8th day. However, no charges will be made if you cancel the subscription prior to the end of your free trial period. You may cancel your membership at any time by going to your account settings.
+The translation can be limited due to excees amount of translation in a day.
 
 ### 10. CANCELLATION AND REFUND OF SUBSCRIPTION
 You can keep track of your Premium subscription by opening the Account Settings after purchase which will display the expiry date of your Premium subscription.
@@ -97,5 +95,3 @@ This policy is effective as of 2023-04-20
 
 ### 16. QUESTIONS
 Please contact us with any questions you might have about these Terms via  info@riveli.io using the subject “Questions about Terms”.
-
-
