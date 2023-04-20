@@ -3,4 +3,4 @@ layout: default
 ---
 ### Paris: Audio Guide
 
-### Multi Language Translator
+### Deep Translate: Multi Language Translator
