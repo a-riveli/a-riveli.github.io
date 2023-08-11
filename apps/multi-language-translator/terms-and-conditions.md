@@ -1,14 +1,14 @@
 ---
 layout: information
 ---
-# Multi Language Translate - Terms and Conditions
+# Deep Translate: Multi Language Translator - Terms and Conditions
 
 <a href="https://apps.apple.com/us/app/multi-language-translate/id6444265937" style="display: inline-block;">
     <img src="../../assets/images/app-store2.png" alt="app-store2" width="135" height="40">  
 </a>
 
 ### 1. INTRODUCTION
-Thank you for choosing Multi Language Translate  by Ihsan Yalcinkaya.
+Thank you for choosing Deep Translate: Multi Language Translator  by Ihsan Yalcinkaya.
 
 I provide you (“you, your, yours, the user”) an application for translating multiple languages at the same time. Our services are available on (i) applications available to download on mobile or tablet devices (“Apps”), or any other device, whether invented or to be invented, by which you can access our content and courses, collectively being our services to you (“Services”).
 
@@ -50,7 +50,7 @@ If you select Monthly Premium your subscription will automatically renew as a ro
 
 You acknowledge that, if we change the Fees, this will not affect your existing Premium subscription, therefore, if you have signed up for a subscription at a certain Fee, any Fee changes will not affect any current subscription or any Renewals).
 
-Please note that if you have purchased the subscription through Apple iTunes or Multi Language Translate iPhone/iPad application, the following conditions apply for renewals of Monthly and Yearly Premium subscription:
+Please note that if you have purchased the subscription through Apple iTunes or Deep Translate: Multi Language Translator iPhone/iPad application, the following conditions apply for renewals of Monthly and Yearly Premium subscription:
 
 Subscription automatically renews unless auto-renew is turned off at least 24-hours before the end of the current period
 Your account will be charged for renewal within 24-hours prior to the end of the current period.
