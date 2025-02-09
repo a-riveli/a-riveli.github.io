@@ -1,4 +1,18 @@
 
+<a href="" style="display: inline-block;"><img src="assets/images/runmate_196.png" alt="runmateImage" width="30" height="30"  class="rounded"> </a>
+[RunMate Interval Running Coach]()
+
+Boost your running journey with RunMate’s interval coaching. Conquer 5K & 10K goals with custom workouts, voice guidance & real-time tracking!
+
+<a href="" style="display: inline-block;">
+<img src="assets/images/app-store2.png" alt="app-store2" width="135" height="40">  
+</a>
+<a href="apps/runmate/privacy-policy.html" style="color: gray; font-size: small;">Privacy Policy</a>
+<a href="apps/runmate/terms-and-conditions.html" style="color: gray; font-size: small;">Terms and Conditions</a>
+
+<br>
+<br>
+
 
 <a href="https://apps.apple.com/us/app/paris-audio-guide/id1671426431" style="display: inline-block;"><img src="assets/images/paris_icon.jpeg" alt="parisImage" width="30" height="30"  class="rounded"> </a>
 [Paris: Audio Guide](https://apps.apple.com/us/app/paris-audio-guide/id1671426431)
