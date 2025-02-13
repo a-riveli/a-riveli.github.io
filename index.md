@@ -2,7 +2,7 @@
 <a href="" style="display: inline-block;"><img src="assets/images/runmate_196.png" alt="runmateImage" width="30" height="30"  class="rounded"> </a>
 [RunMate Interval Running Coach]()
 
-Boost your running journey with RunMate’s interval coaching. Conquer 5K & 10K goals with custom workouts, voice guidance & real-time tracking!
+Boost your running journey with RunMate's interval coaching. Conquer 5K & 10K goals with custom workouts, voice guidance & real-time tracking!
 
 <a href="" style="display: inline-block;">
 <img src="assets/images/app-store2.png" alt="app-store2" width="135" height="40">  
@@ -38,3 +38,7 @@ A mobile translator application that stands out from the rest, it offers seamles
 </a>
 <a href="apps/multi-language-translator/privacy-policy.html" style="color: gray; font-size: small;">Privacy Policy</a>
 <a href="apps/multi-language-translator/terms-and-conditions.html" style="color: gray; font-size: small;">Terms and Conditions</a>
+
+## Support
+
+Need help or have questions? Visit our [Support page](/support/) or email us at [info@riveli.io](mailto:info@riveli.io).
