@@ -1,4 +1,18 @@
 
+<a href="" style="display: inline-block;"><img src="assets/images/cag_196.png" alt="runmateImage" width="30" height="30"  class="rounded"> </a>
+[City Audio Guide]()
+
+Transform your phone into a personal tour guide and explore iconic cities at your own pace. With immersive audio stories, smart offline navigation, and support in 12 languages, City Audio Guide transforms every city visit into an unforgettable journey of discovery.
+
+<a href="" style="display: inline-block;">
+<img src="assets/images/app-store2.png" alt="app-store2" width="135" height="40">  
+</a>
+<a href="apps/cag/privacy-policy.html" style="color: gray; font-size: small;">Privacy Policy</a>
+<a href="apps/cag/terms-and-conditions.html" style="color: gray; font-size: small;">Terms and Conditions</a>
+
+<br>
+<br>
+
 <a href="" style="display: inline-block;"><img src="assets/images/runmate_196.png" alt="runmateImage" width="30" height="30"  class="rounded"> </a>
 [RunMate Interval Running Coach]()
 
