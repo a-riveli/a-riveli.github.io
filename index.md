@@ -1,58 +1,21 @@
+---
+layout: default
+title: riveli.io — trading and technology
+description: riveli.io is a Dutch sole proprietorship based in Waalre, active in trade and software development. KVK 89791444.
+---
 
-<a href="" style="display: inline-block;"><img src="assets/images/cag_196.png" alt="runmateImage" width="30" height="30"  class="rounded"> </a>
-[City Audio Guide]()
+<h1>Trading and technology</h1>
 
-Transform your phone into a personal tour guide and explore iconic cities at your own pace. With immersive audio stories, smart offline navigation, and support in 12 languages, City Audio Guide transforms every city visit into an unforgettable journey of discovery.
+<p class="lede">riveli.io is a Dutch registered business based in Waalre, in the Eindhoven region, active in trade and <a href="{{ '/apps/' | relative_url }}">technology</a>.</p>
 
-<a href="" style="display: inline-block;">
-<img src="assets/images/app-store2.png" alt="app-store2" width="135" height="40">  
-</a>
-<a href="apps/cag/privacy-policy.html" style="color: gray; font-size: small;">Privacy Policy</a>
-<a href="apps/cag/terms-and-conditions.html" style="color: gray; font-size: small;">Terms and Conditions</a>
+<h2>Company details</h2>
 
-<br>
-<br>
-
-<a href="" style="display: inline-block;"><img src="assets/images/runmate_196.png" alt="runmateImage" width="30" height="30"  class="rounded"> </a>
-[RunMate Interval Running Coach]()
-
-Boost your running journey with RunMate's interval coaching. Conquer 5K & 10K goals with custom workouts, voice guidance & real-time tracking!
-
-<a href="" style="display: inline-block;">
-<img src="assets/images/app-store2.png" alt="app-store2" width="135" height="40">  
-</a>
-<a href="apps/runmate/privacy-policy.html" style="color: gray; font-size: small;">Privacy Policy</a>
-<a href="apps/runmate/terms-and-conditions.html" style="color: gray; font-size: small;">Terms and Conditions</a>
-
-<br>
-<br>
-
-
-<a href="https://apps.apple.com/us/app/paris-audio-guide/id1671426431" style="display: inline-block;"><img src="assets/images/paris_icon.jpeg" alt="parisImage" width="30" height="30"  class="rounded"> </a>
-[Paris: Audio Guide](https://apps.apple.com/us/app/paris-audio-guide/id1671426431)
-
-An AI-powered self-guided tour to help users explore the city of Paris at their own pace. With over 100 popular tourist attractions, clear and concise 2-3 minute audio guides, customizable routes, and an autoplay mode, this app offers a unique and immersive experience for discovering the City of Light.
-
-<a href="https://apps.apple.com/us/app/paris-audio-guide/id1671426431" style="display: inline-block;">
-<img src="assets/images/app-store2.png" alt="app-store2" width="135" height="40">  
-</a>
-<a href="apps/paris-audio-guide/privacy-policy.html" style="color: gray; font-size: small;">Privacy Policy</a>
-<a href="apps/paris-audio-guide/terms-and-conditions.html" style="color: gray; font-size: small;">Terms and Conditions</a>
-
-<br>
-<br>
-
-<a href="https://apps.apple.com/us/app/multi-language-translate/id6444265937" style="display: inline-block;"><img src="assets/images/translator_icon.webp" alt="translator_icon" width="30" height="30" class="rounded"></a>
-[Deep Translate: Multi Language Translator](https://apps.apple.com/us/app/multi-language-translate/id6444265937)
-
-A mobile translator application that stands out from the rest, it offers seamless translation from one language to multiple languages simultaneously with a high degree of accuracy, thanks to its advanced neural network architecture. In addition, this app enables users to translate documents without any loss of formatting, making the process of translating entire documents fast and easy.
-
-<a href="https://apps.apple.com/us/app/multi-language-translate/id6444265937" style="display: inline-block;">
-<img src="assets/images/app-store2.png" alt="app-store2" width="135" height="40">  
-</a>
-<a href="apps/multi-language-translator/privacy-policy.html" style="color: gray; font-size: small;">Privacy Policy</a>
-<a href="apps/multi-language-translator/terms-and-conditions.html" style="color: gray; font-size: small;">Terms and Conditions</a>
-
-## Support
-
-Need help or have questions? Visit our [Support page](/support/) or email us at [info@riveli.io](mailto:info@riveli.io).
+<table class="details">
+  <tr><th>Registered name</th><td>{{ site.company.legal_name }}</td></tr>
+  <tr><th>Legal form</th><td>Eenmanszaak (sole proprietorship)</td></tr>
+  <tr><th>KVK number</th><td>{{ site.company.kvk }}</td></tr>
+  <tr><th>VAT number</th><td>{{ site.company.vat }}</td></tr>
+  <tr><th>Established</th><td>2023</td></tr>
+  <tr><th>Location</th><td>{{ site.company.city }}, {{ site.company.country }}</td></tr>
+  <tr><th>Email</th><td><a href="mailto:{{ site.company.email }}">{{ site.company.email }}</a></td></tr>
+</table>

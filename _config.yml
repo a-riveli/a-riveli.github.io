@@ -1,7 +1,14 @@
-remote_theme: pages-themes/hacker@v0.2.0
-plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
 title: riveli.io
-description: Ihsan Yalcinkaya
+description: Trading and technology. Registered in Waalre, the Netherlands.
+plugins:
+  - jekyll-seo-tag
 show_downloads: false
 google_analytics: G-4F0WJFSTYQ
+
+company:
+  legal_name: riveli.io
+  kvk: "89791444"
+  vat: "NL004760034B11"
+  city: Waalre
+  country: The Netherlands
+  email: info@riveli.io
